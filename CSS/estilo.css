@@ -1,0 +1,24 @@
+body {
+	background:url(123.jpg);
+	
+}
+h1,h2,h3,h4,h5{
+	color: #0040ff ;
+}
+p {
+	color :	#000000 ;
+}
+
+.pink {
+	color: #FF0080 ;
+}
+div {
+	widht:5%;
+	height:5%;
+	background: pink;
+	float:left;
+}
+*{
+margin:25px 25px;
+padding:6px 6px;
+
